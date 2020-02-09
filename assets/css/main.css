@@ -3411,7 +3411,7 @@ input, select, textarea {
 			transition-delay: 0.75s;
 			pointer-events: none;
 			background-image: url("../../image2/principal.jpg") ;
-			background-size: 100%;
+			background-size: 200%;
 			content: '';
 			display: block;
 			height: 100%;
