@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #73553C;
+		background: #353F4B;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2753,6 +2753,9 @@ input, select, textarea {
 			overflow: hidden;
 			position: relative;
 			width: 40%;
+			border-width:1.5px;
+ 			border-style: solid;
+			border-color:black;
 		}
 
 			.tiles article .image {
@@ -3951,3 +3954,12 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+	video {
+	width: 30%;
+	text-align: center;
+	}
+	iframe {
+	width: ;
+	height: ;
+	vertical-align: center;
+	}
